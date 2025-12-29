@@ -1,0 +1,2243 @@
+[
+  {
+    "name": "Amethyst",
+    "primary_base": "Violet",
+    "secondary_bases": ["Purple", "Blue"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["gemstone", "royal", "fantasy", "mystic"]
+  },
+  {
+    "name": "Tyrian Violet",
+    "primary_base": "Violet",
+    "secondary_bases": ["Purple", "Red"],
+    "brightness": "medium-low",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["imperial", "ancient", "royalty", "historic"]
+  },
+  {
+    "name": "Byzantium",
+    "primary_base": "Violet",
+    "secondary_bases": ["Purple", "Red"],
+    "brightness": "low",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["luxury", "opulent", "royal", "dramatic"]
+  },
+  {
+    "name": "Aubergine Noir",
+    "primary_base": "Violet",
+    "secondary_bases": ["Black", "Purple"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["dark", "premium", "dramatic", "cinematic"]
+  },
+  {
+    "name": "Imperial Iris",
+    "primary_base": "Violet",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium",
+    "saturation": "medium-high",
+    "temperature": "neutral",
+    "associations": ["floral", "royal", "elegant", "refined"]
+  },
+  {
+    "name": "Heliotrope",
+    "primary_base": "Violet",
+    "secondary_bases": ["Pink"],
+    "brightness": "high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["expressive", "floral", "vibrant", "artistic"]
+  },
+  {
+    "name": "Mulberry Silk",
+    "primary_base": "Violet",
+    "secondary_bases": ["Red", "Purple"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["fabric", "luxury", "smooth", "opulent"]
+  },
+  {
+    "name": "Damson Plum",
+    "primary_base": "Violet",
+    "secondary_bases": ["Purple", "Red"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "neutral",
+    "associations": ["fruit", "muted", "elegant", "classic"]
+  },
+  {
+    "name": "Wisteria Bloom",
+    "primary_base": "Violet",
+    "secondary_bases": ["Pink", "White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["pastel", "calm", "graceful", "airy"]
+  },
+  {
+    "name": "Royal Grape",
+    "primary_base": "Violet",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium-low",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["jewel", "bold", "luxury", "regal"]
+  },
+  {
+    "name": "Night Orchid",
+    "primary_base": "Violet",
+    "secondary_bases": ["Blue", "Black"],
+    "brightness": "low",
+    "saturation": "medium-high",
+    "temperature": "cool",
+    "associations": ["mysterious", "night", "cinematic", "depth"]
+  },
+  {
+    "name": "Lavender Ash",
+    "primary_base": "Violet",
+    "secondary_bases": ["Grey", "White"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["modern", "smoky", "minimal", "soft"]
+  },
+  {
+    "name": "Violet Quartz",
+    "primary_base": "Violet",
+    "secondary_bases": ["Purple", "White"],
+    "brightness": "medium-high",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["crystal", "luminescent", "clean", "refined"]
+  },
+  {
+    "name": "Blackcurrant Velvet",
+    "primary_base": "Violet",
+    "secondary_bases": ["Black", "Purple"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["plush", "dark", "luxury", "soft"]
+  },
+  {
+    "name": "Celestial Mauve",
+    "primary_base": "Violet",
+    "secondary_bases": ["Pink", "Purple"],
+    "brightness": "medium-high",
+    "saturation": "medium-low",
+    "temperature": "cool",
+    "associations": ["cosmic", "ethereal", "soft", "dreamlike"]
+  },
+  {
+    "name": "Lapis Lazuli",
+    "primary_base": "Blue",
+    "secondary_bases": ["Violet", "Purple"],
+    "brightness": "medium-low",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["gemstone", "royal", "ancient", "luxury"]
+  },
+  {
+    "name": "Prussian Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["historic", "authoritative", "deep", "classic"]
+  },
+  {
+    "name": "Cobalt Royale",
+    "primary_base": "Blue",
+    "secondary_bases": ["Violet"],
+    "brightness": "medium",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["metallic", "bold", "luxury", "regal"]
+  },
+  {
+    "name": "Ultramarine",
+    "primary_base": "Blue",
+    "secondary_bases": ["Violet"],
+    "brightness": "medium",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["fine-art", "classical", "pigment", "heritage"]
+  },
+  {
+    "name": "Oxford Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["Black"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["elite", "academic", "formal", "sophisticated"]
+  },
+  {
+    "name": "Sapphire Deep",
+    "primary_base": "Blue",
+    "secondary_bases": ["Violet"],
+    "brightness": "medium-low",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["jewel", "luminous", "luxury", "premium"]
+  },
+  {
+    "name": "Midnight Azure",
+    "primary_base": "Blue",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium-high",
+    "temperature": "cool",
+    "associations": ["night-sky", "cinematic", "mysterious", "depth"]
+  },
+  {
+    "name": "Aegean Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["Green"],
+    "brightness": "medium-high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["ocean", "mediterranean", "natural", "calm"]
+  },
+  {
+    "name": "Peacock Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["Green"],
+    "brightness": "medium",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["iridescent", "vibrant", "exotic", "ornamental"]
+  },
+  {
+    "name": "Storm Navy",
+    "primary_base": "Blue",
+    "secondary_bases": ["Grey", "Black"],
+    "brightness": "low",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["moody", "cinematic", "stormy", "dramatic"]
+  },
+  {
+    "name": "Cerulean Crest",
+    "primary_base": "Blue",
+    "secondary_bases": ["Green"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["sky", "ocean", "clean", "uplifting"]
+  },
+  {
+    "name": "Inkstone Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["Black"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["ink", "calligraphy", "matte", "artisanal"]
+  },
+  {
+    "name": "Glacier Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["ice", "crystalline", "cold", "premium"]
+  },
+  {
+    "name": "Blue Opal",
+    "primary_base": "Blue",
+    "secondary_bases": ["White", "Green"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["mineral", "soft-glow", "elegant", "refined"]
+  },
+  {
+    "name": "Cosmic Navy",
+    "primary_base": "Blue",
+    "secondary_bases": ["Black"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["space", "modern", "futuristic", "luxury"]
+  },
+  {
+    "name": "Emerald",
+    "primary_base": "Green",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["gemstone", "royal", "luxury", "regal"]
+  },
+  {
+    "name": "Jade Imperial",
+    "primary_base": "Green",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["mineral", "cultural", "prestige", "heritage"]
+  },
+  {
+    "name": "Malachite",
+    "primary_base": "Green",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["gemstone", "banded", "natural", "opulent"]
+  },
+  {
+    "name": "British Racing Green",
+    "primary_base": "Green",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["heritage", "elite", "automotive", "classic"]
+  },
+  {
+    "name": "Verdigris",
+    "primary_base": "Green",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["aged-metal", "artistic", "patina", "historic"]
+  },
+  {
+    "name": "Viridian",
+    "primary_base": "Green",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["fine-art", "pure", "classical", "pigment"]
+  },
+  {
+    "name": "Forest Canopy",
+    "primary_base": "Green",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["nature", "dense", "shadowed", "organic"]
+  },
+  {
+    "name": "Olive Drab Luxe",
+    "primary_base": "Green",
+    "secondary_bases": ["Yellow", "Brown"],
+    "brightness": "medium-low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["military", "fashion", "muted", "refined"]
+  },
+  {
+    "name": "Moss Agate",
+    "primary_base": "Green",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "neutral",
+    "associations": ["earthy", "gemstone", "soft", "organic"]
+  },
+  {
+    "name": "Basil Velvet",
+    "primary_base": "Green",
+    "secondary_bases": ["Yellow"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["herbal", "rich", "warm", "luxury"]
+  },
+  {
+    "name": "Hunter Green",
+    "primary_base": "Green",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["traditional", "authoritative", "outdoor", "classic"]
+  },
+  {
+    "name": "Eucalyptus Smoke",
+    "primary_base": "Green",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["modern", "calm", "smoky", "minimal"]
+  },
+  {
+    "name": "Peridot Glow",
+    "primary_base": "Green",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["gemstone", "luminous", "fresh", "light"]
+  },
+  {
+    "name": "Cypress Shadow",
+    "primary_base": "Green",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["evergreen", "moody", "elegant", "cinematic"]
+  },
+  {
+    "name": "Celadon Porcelain",
+    "primary_base": "Green",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["ceramic", "historic", "soft", "refined"]
+  },
+  {
+    "name": "Crimson Royale",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["royal", "commanding", "luxury", "regal"]
+  },
+  {
+    "name": "Burgundy Reserve",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple", "Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["wine", "refined", "elegant", "classic"]
+  },
+  {
+    "name": "Carmine",
+    "primary_base": "Red",
+    "secondary_bases": ["Pink"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["historic-pigment", "artistic", "classic", "heritage"]
+  },
+  {
+    "name": "Garnet",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple", "Black"],
+    "brightness": "low",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["gemstone", "luxury", "dark", "opulent"]
+  },
+  {
+    "name": "Oxblood",
+    "primary_base": "Red",
+    "secondary_bases": ["Black", "Brown"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["leather", "dramatic", "moody", "premium"]
+  },
+  {
+    "name": "Vermilion",
+    "primary_base": "Red",
+    "secondary_bases": ["Orange"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["classical", "energetic", "vivid", "expressive"]
+  },
+  {
+    "name": "Tyrian Red",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["ancient", "imperial", "mythic", "prestige"]
+  },
+  {
+    "name": "Scarlet Empress",
+    "primary_base": "Red",
+    "secondary_bases": ["Orange"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["regal", "dramatic", "bold", "ceremonial"]
+  },
+  {
+    "name": "Sangria Velvet",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple"],
+    "brightness": "low",
+    "saturation": "medium-high",
+    "temperature": "warm",
+    "associations": ["sensual", "wine", "smooth", "luxury"]
+  },
+  {
+    "name": "Ruby Noir",
+    "primary_base": "Red",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["jewel", "shadowed", "elegant", "cinematic"]
+  },
+  {
+    "name": "Burnt Sienna",
+    "primary_base": "Red",
+    "secondary_bases": ["Orange", "Brown"],
+    "brightness": "medium-low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["earthy", "natural", "classic", "artistic"]
+  },
+  {
+    "name": "Pomegranate",
+    "primary_base": "Red",
+    "secondary_bases": ["Pink"],
+    "brightness": "medium-high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["fruit", "rich", "fresh", "vibrant"]
+  },
+  {
+    "name": "Cinnabar",
+    "primary_base": "Red",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium-high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["mineral", "metallic", "intense", "historic"]
+  },
+  {
+    "name": "Merlot Silk",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["wine", "soft", "luxury", "smooth"]
+  },
+  {
+    "name": "Cardinal Flame",
+    "primary_base": "Red",
+    "secondary_bases": ["Orange"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["ceremonial", "powerful", "bright", "authoritative"]
+  },
+  {
+    "name": "Imperial Gold",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium-high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["royal", "metallic", "luxury", "regal"]
+  },
+  {
+    "name": "Saffron",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["spice", "cultural", "rich", "heritage"]
+  },
+  {
+    "name": "Amber",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium",
+    "saturation": "medium-high",
+    "temperature": "warm",
+    "associations": ["resin", "organic", "ancient", "warmth"]
+  },
+  {
+    "name": "Marigold",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["floral", "traditional", "vibrant", "ceremonial"]
+  },
+  {
+    "name": "Topaz",
+    "primary_base": "Yellow",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["gemstone", "luminous", "clarity", "premium"]
+  },
+  {
+    "name": "Honeyed Ochre",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["earthy", "painterly", "soft", "natural"]
+  },
+  {
+    "name": "Goldenrod",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium-high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["natural", "bold", "stately", "classic"]
+  },
+  {
+    "name": "Butterscotch",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["creamy", "vintage", "caramel", "comfort"]
+  },
+  {
+    "name": "Chartreuse Doré",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Green"],
+    "brightness": "high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["luxury", "modern", "bold", "fashion"]
+  },
+  {
+    "name": "Solar Flare",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "very-high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["cinematic", "radiant", "powerful", "energy"]
+  },
+  {
+    "name": "Maize Silk",
+    "primary_base": "Yellow",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["agricultural", "soft", "calm", "natural"]
+  },
+  {
+    "name": "Antique Brass",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Brown", "Black"],
+    "brightness": "low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["metallic", "aged", "elegant", "vintage"]
+  },
+  {
+    "name": "Lemon Quartz",
+    "primary_base": "Yellow",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["crystal", "refined", "bright", "clean"]
+  },
+  {
+    "name": "Desert Dune",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["sand", "sun-washed", "natural", "cinematic"]
+  },
+  {
+    "name": "Sunstone Glow",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "high",
+    "saturation": "medium-high",
+    "temperature": "warm",
+    "associations": ["gemstone", "fiery", "luminous", "premium"]
+  },
+  {
+    "name": "Amber Flame",
+    "primary_base": "Orange",
+    "secondary_bases": ["Yellow", "Red"],
+    "brightness": "high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["resin", "fiery", "glowing", "cinematic"]
+  },
+  {
+    "name": "Persimmon",
+    "primary_base": "Orange",
+    "secondary_bases": ["Red"],
+    "brightness": "medium-high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["fruit", "elegant", "warm", "natural"]
+  },
+  {
+    "name": "Burnt Saffron",
+    "primary_base": "Orange",
+    "secondary_bases": ["Red", "Brown"],
+    "brightness": "medium",
+    "saturation": "medium-high",
+    "temperature": "warm",
+    "associations": ["spice", "cultural", "deep", "heritage"]
+  },
+  {
+    "name": "Mandarin Zest",
+    "primary_base": "Orange",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["citrus", "vibrant", "premium", "energetic"]
+  },
+  {
+    "name": "Copper Glow",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["metallic", "industrial", "luxury", "warmth"]
+  },
+  {
+    "name": "Terracotta",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["earthy", "architectural", "timeless", "natural"]
+  },
+  {
+    "name": "Paprika",
+    "primary_base": "Orange",
+    "secondary_bases": ["Red"],
+    "brightness": "medium-high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["spice", "intense", "bold", "expressive"]
+  },
+  {
+    "name": "Apricot Silk",
+    "primary_base": "Orange",
+    "secondary_bases": ["Pink", "White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["soft", "pastel", "refined", "smooth"]
+  },
+  {
+    "name": "Tiger’s Eye",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown", "Yellow"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["gemstone", "shimmer", "natural", "protective"]
+  },
+  {
+    "name": "Rust Ember",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown", "Red"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["oxidized", "cinematic", "moody", "industrial"]
+  },
+  {
+    "name": "Cantaloupe",
+    "primary_base": "Orange",
+    "secondary_bases": ["Pink"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["fresh", "modern", "light", "natural"]
+  },
+  {
+    "name": "Sunset Coral",
+    "primary_base": "Orange",
+    "secondary_bases": ["Pink", "Red"],
+    "brightness": "medium-high",
+    "saturation": "medium-high",
+    "temperature": "warm",
+    "associations": ["atmospheric", "sunset", "soft", "romantic"]
+  },
+  {
+    "name": "Bronzed Pumpkin",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["autumnal", "rich", "seasonal", "depth"]
+  },
+  {
+    "name": "Molten Amber",
+    "primary_base": "Orange",
+    "secondary_bases": ["Yellow", "Red"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["liquid-fire", "dramatic", "energy", "cinematic"]
+  },
+  {
+    "name": "Desert Clay",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["artisanal", "natural", "muted", "handcrafted"]
+  },
+  {
+    "name": "Imperial Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Violet"],
+    "brightness": "medium-low",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["sovereign", "royal", "commanding", "historic"]
+  },
+  {
+    "name": "Phoenician Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Red", "Violet"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["ancient-dye", "historic", "prestige", "imperial"]
+  },
+  {
+    "name": "Monarch Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Violet"],
+    "brightness": "medium",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["royalty", "authority", "bold", "regal"]
+  },
+  {
+    "name": "Bishop’s Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Red"],
+    "brightness": "medium-low",
+    "saturation": "medium-high",
+    "temperature": "warm",
+    "associations": ["ceremonial", "ecclesiastical", "rich", "formal"]
+  },
+  {
+    "name": "Royal Fig",
+    "primary_base": "Purple",
+    "secondary_bases": ["Red"],
+    "brightness": "medium-low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["fruit", "refined", "warm", "luxury"]
+  },
+  {
+    "name": "Blackthorn Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["thorny", "natural", "dark", "moody"]
+  },
+  {
+    "name": "Amaranth Shadow",
+    "primary_base": "Purple",
+    "secondary_bases": ["Red"],
+    "brightness": "low",
+    "saturation": "medium-high",
+    "temperature": "warm",
+    "associations": ["botanical", "poetic", "intense", "dramatic"]
+  },
+  {
+    "name": "Twilight Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Blue"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["dusk", "transition", "soft-dark", "atmospheric"]
+  },
+  {
+    "name": "Regal Raisin",
+    "primary_base": "Purple",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "low",
+    "temperature": "neutral",
+    "associations": ["muted", "understated", "luxury", "elegant"]
+  },
+  {
+    "name": "Majestic Ube",
+    "primary_base": "Purple",
+    "secondary_bases": ["Pink"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["culinary", "velvety", "rich", "modern"]
+  },
+  {
+    "name": "Scepter Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Violet"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["polished", "metallic", "authority", "royal"]
+  },
+  {
+    "name": "Crown Jewel Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Violet"],
+    "brightness": "medium-high",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["luminous", "prestige", "depth", "luxury"]
+  },
+  {
+    "name": "Nightfall Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Black"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["cinematic", "night", "moody", "dramatic"]
+  },
+  {
+    "name": "Astral Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Blue", "Violet"],
+    "brightness": "medium",
+    "saturation": "medium-high",
+    "temperature": "cool",
+    "associations": ["cosmic", "space", "mystery", "ethereal"]
+  },
+  {
+    "name": "Obsidian Purple",
+    "primary_base": "Purple",
+    "secondary_bases": ["Black"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["volcanic", "ultra-dark", "elegant", "powerful"]
+  },
+  {
+    "name": "Rose Quartz",
+    "primary_base": "Pink",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["gemstone", "calm", "refined", "gentle"]
+  },
+  {
+    "name": "Blush Silk",
+    "primary_base": "Pink",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["fabric", "luxury", "soft", "smooth"]
+  },
+  {
+    "name": "Peony Bloom",
+    "primary_base": "Pink",
+    "secondary_bases": ["Red"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["floral", "romantic", "rich", "expressive"]
+  },
+  {
+    "name": "Ballet Slipper",
+    "primary_base": "Pink",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["pastel", "graceful", "delicate", "elegant"]
+  },
+  {
+    "name": "Dusty Rose",
+    "primary_base": "Pink",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "neutral",
+    "associations": ["vintage", "muted", "cinematic", "nostalgic"]
+  },
+  {
+    "name": "Champagne Pink",
+    "primary_base": "Pink",
+    "secondary_bases": ["Yellow"],
+    "brightness": "medium-high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["luminous", "celebratory", "elegant", "golden"]
+  },
+  {
+    "name": "Antique Coral",
+    "primary_base": "Pink",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["aged", "sophisticated", "coastal", "refined"]
+  },
+  {
+    "name": "Flamingo Satin",
+    "primary_base": "Pink",
+    "secondary_bases": ["Red"],
+    "brightness": "high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["vibrant", "polished", "bold", "fashion"]
+  },
+  {
+    "name": "Petal Mist",
+    "primary_base": "Pink",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["airy", "ethereal", "light", "dreamy"]
+  },
+  {
+    "name": "Raspberry Cream",
+    "primary_base": "Pink",
+    "secondary_bases": ["Red"],
+    "brightness": "medium",
+    "saturation": "medium-high",
+    "temperature": "warm",
+    "associations": ["dessert", "sweet", "rich", "playful"]
+  },
+  {
+    "name": "Shell Blush",
+    "primary_base": "Pink",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["coastal", "organic", "soft", "elegant"]
+  },
+  {
+    "name": "Rosewater",
+    "primary_base": "Pink",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["translucent", "pure", "spa", "minimal"]
+  },
+  {
+    "name": "Mulled Berry",
+    "primary_base": "Pink",
+    "secondary_bases": ["Purple"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["cozy", "berry", "deep", "comfort"]
+  },
+  {
+    "name": "Orchid Pink",
+    "primary_base": "Pink",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["exotic", "floral", "bold", "refined"]
+  },
+  {
+    "name": "Velvet Fuchsia",
+    "primary_base": "Pink",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium-low",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["plush", "dramatic", "luxury", "intense"]
+  },
+  {
+    "name": "Ivory",
+    "primary_base": "White",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "warm",
+    "associations": ["classic", "timeless", "elegant", "heritage"]
+  },
+  {
+    "name": "Alabaster",
+    "primary_base": "White",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["mineral", "smooth", "soft-depth", "refined"]
+  },
+  {
+    "name": "Pearl",
+    "primary_base": "White",
+    "secondary_bases": ["Pink"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["luminous", "iridescent", "luxury", "jewel"]
+  },
+  {
+    "name": "Porcelain",
+    "primary_base": "White",
+    "secondary_bases": ["Blue"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["ceramic", "clean", "refined", "minimal"]
+  },
+  {
+    "name": "Chalkstone",
+    "primary_base": "White",
+    "secondary_bases": ["Grey"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["matte", "architectural", "natural", "calm"]
+  },
+  {
+    "name": "Milk Glass",
+    "primary_base": "White",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "warm",
+    "associations": ["creamy", "translucent", "vintage", "soft"]
+  },
+  {
+    "name": "Marble Veil",
+    "primary_base": "White",
+    "secondary_bases": ["Grey"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["stone", "cool", "subtle", "luxury"]
+  },
+  {
+    "name": "Linen White",
+    "primary_base": "White",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "warm",
+    "associations": ["fabric", "organic", "gentle", "natural"]
+  },
+  {
+    "name": "Frosted Quartz",
+    "primary_base": "White",
+    "secondary_bases": ["Blue"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["crystalline", "icy", "soft-glow", "clean"]
+  },
+  {
+    "name": "Moonstone",
+    "primary_base": "White",
+    "secondary_bases": ["Blue"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["mystical", "pale-glow", "ethereal", "gemstone"]
+  },
+  {
+    "name": "Bone China",
+    "primary_base": "White",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "warm",
+    "associations": ["heritage", "delicate", "ceramic", "elegant"]
+  },
+  {
+    "name": "Cloud Drift",
+    "primary_base": "White",
+    "secondary_bases": ["Blue"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["airy", "atmospheric", "light", "dreamlike"]
+  },
+  {
+    "name": "Snow Ash",
+    "primary_base": "White",
+    "secondary_bases": ["Grey"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["cold", "minimal", "muted", "modern"]
+  },
+  {
+    "name": "Vanilla Cream",
+    "primary_base": "White",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "warm",
+    "associations": ["soft", "edible", "warm", "comfort"]
+  },
+  {
+    "name": "Opaline",
+    "primary_base": "White",
+    "secondary_bases": ["Blue"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["glassy", "refined", "sheen", "elegant"]
+  },
+  {
+    "name": "Obsidian",
+    "primary_base": "Black",
+    "secondary_bases": ["Purple"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["volcanic", "sharp", "glassy", "dramatic"]
+  },
+  {
+    "name": "Onyx",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "neutral",
+    "associations": ["gemstone", "polished", "elegant", "luxury"]
+  },
+  {
+    "name": "Jet Black",
+    "primary_base": "Black",
+    "secondary_bases": [],
+    "brightness": "very-low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["dense", "intense", "classic", "absolute"]
+  },
+  {
+    "name": "Raven Feather",
+    "primary_base": "Black",
+    "secondary_bases": ["Blue"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["organic", "avian", "soft-sheen", "mystic"]
+  },
+  {
+    "name": "Midnight Ink",
+    "primary_base": "Black",
+    "secondary_bases": ["Blue"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["liquid", "ink", "calligraphic", "deep"]
+  },
+  {
+    "name": "Charcoal Noir",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["smoky", "softened", "refined", "modern"]
+  },
+  {
+    "name": "Pitchstone",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "very-low",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["raw", "volcanic", "matte", "natural"]
+  },
+  {
+    "name": "Carbon Shadow",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "very-low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["industrial", "modern", "layered", "depth"]
+  },
+  {
+    "name": "Vantablack",
+    "primary_base": "Black",
+    "secondary_bases": [],
+    "brightness": "ultra-low",
+    "saturation": "none",
+    "temperature": "neutral",
+    "associations": ["scientific", "void", "extreme", "absolute"]
+  },
+  {
+    "name": "Sable",
+    "primary_base": "Black",
+    "secondary_bases": ["Brown"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["fur", "luxury", "soft", "organic"]
+  },
+  {
+    "name": "Black Tourmaline",
+    "primary_base": "Black",
+    "secondary_bases": ["Purple"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["crystal", "grounding", "protective", "weighty"]
+  },
+  {
+    "name": "Noir Velvet",
+    "primary_base": "Black",
+    "secondary_bases": ["Purple"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["fabric", "plush", "cinematic", "luxury"]
+  },
+  {
+    "name": "Smoked Ebony",
+    "primary_base": "Black",
+    "secondary_bases": ["Brown"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["wood", "natural", "smoky", "elegant"]
+  },
+  {
+    "name": "Astral Void",
+    "primary_base": "Black",
+    "secondary_bases": ["Purple", "Blue"],
+    "brightness": "ultra-low",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["cosmic", "infinite", "void", "mysterious"]
+  },
+  {
+    "name": "Ironclad Black",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "very-low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["metallic", "hardened", "power", "industrial"]
+  },
+  {
+    "name": "Cerulean Frost",
+    "primary_base": "Blue",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["icy", "sky", "crisp", "clean"]
+  },
+  {
+    "name": "Electric Indigo",
+    "primary_base": "Blue",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium-high",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["neon", "futuristic", "electric", "energy"]
+  },
+  {
+    "name": "Titanium Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["metallic", "industrial", "modern", "sheen"]
+  },
+  {
+    "name": "Neptune Teal",
+    "primary_base": "Blue",
+    "secondary_bases": ["Green"],
+    "brightness": "medium-low",
+    "saturation": "medium-high",
+    "temperature": "cool",
+    "associations": ["oceanic", "deep", "mysterious", "mythic"]
+  },
+  {
+    "name": "Arctic Mint",
+    "primary_base": "Green",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["icy", "mint", "futuristic", "clean"]
+  },
+  {
+    "name": "Glacial Teal",
+    "primary_base": "Green",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["frosted", "cinematic", "cold", "depth"]
+  },
+  {
+    "name": "Cosmic Cyan",
+    "primary_base": "Blue",
+    "secondary_bases": ["Green"],
+    "brightness": "high",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["space", "vibrant", "cosmic", "energy"]
+  },
+  {
+    "name": "Photon Blue",
+    "primary_base": "Blue",
+    "secondary_bases": [],
+    "brightness": "very-high",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["neon", "high-energy", "sci-fi", "light"]
+  },
+  {
+    "name": "Ionized Silver",
+    "primary_base": "White",
+    "secondary_bases": ["Grey"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["metallic", "sci-fi", "shimmer", "technology"]
+  },
+  {
+    "name": "Mercury Mist",
+    "primary_base": "Grey",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["metallic", "soft", "elegant", "fluid"]
+  },
+  {
+    "name": "Steel Veil",
+    "primary_base": "Grey",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["industrial", "modern", "subtle", "layered"]
+  },
+  {
+    "name": "Graphite Eclipse",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "very-low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["modern", "luxury", "dark", "eclipse"]
+  },
+  {
+    "name": "Shadow Alloy",
+    "primary_base": "Grey",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["smoky", "metallic", "urban", "industrial"]
+  },
+  {
+    "name": "Moonlit Steel",
+    "primary_base": "Grey",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["silver", "luminous", "night", "clean"]
+  },
+  {
+    "name": "Platinum Shadow",
+    "primary_base": "Grey",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["premium", "metallic", "refined", "luxury"]
+  },
+  {
+    "name": "Copper Alloy",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["metallic", "industrial", "warm", "crafted"]
+  },
+  {
+    "name": "Rose Gold Luxe",
+    "primary_base": "Pink",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium-high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["metallic", "premium", "fashion", "luxury"]
+  },
+  {
+    "name": "Brushed Bronze",
+    "primary_base": "Brown",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium-low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["metallic", "earthy", "aged", "elegant"]
+  },
+  {
+    "name": "Molten Copper",
+    "primary_base": "Orange",
+    "secondary_bases": ["Red"],
+    "brightness": "high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["glowing", "molten", "dramatic", "energy"]
+  },
+  {
+    "name": "Auric Flame",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["golden", "radiant", "heat", "power"]
+  },
+  {
+    "name": "Verdant Mist",
+    "primary_base": "Green",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["soft", "dreamy", "natural", "calm"]
+  },
+  {
+    "name": "Emerald Haze",
+    "primary_base": "Green",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["luxury", "mysterious", "gemstone", "depth"]
+  },
+  {
+    "name": "Olive Smoke",
+    "primary_base": "Green",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium-low",
+    "saturation": "low",
+    "temperature": "neutral",
+    "associations": ["muted", "earthy", "modern", "subtle"]
+  },
+  {
+    "name": "Pistachio Frost",
+    "primary_base": "Green",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["pale", "fresh", "soft", "refined"]
+  },
+  {
+    "name": "Sage Whisper",
+    "primary_base": "Green",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "neutral",
+    "associations": ["calm", "gentle", "natural", "elegant"]
+  },
+  {
+    "name": "Coral Blush",
+    "primary_base": "Pink",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium-high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["soft", "delicate", "romantic", "natural"]
+  },
+  {
+    "name": "Peach Nectar",
+    "primary_base": "Orange",
+    "secondary_bases": ["Pink"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["pastel", "smooth", "fresh", "elegant"]
+  },
+  {
+    "name": "Tangerine Glow",
+    "primary_base": "Orange",
+    "secondary_bases": ["Yellow"],
+    "brightness": "very-high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["vivid", "luminous", "energetic", "bold"]
+  },
+  {
+    "name": "Apricot Dusk",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["muted", "soft", "evening", "refined"]
+  },
+  {
+    "name": "Mandarin Sun",
+    "primary_base": "Orange",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["citrus", "bold", "radiant", "premium"]
+  },
+  {
+    "name": "Ruby Radiance",
+    "primary_base": "Red",
+    "secondary_bases": ["Pink"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["gemstone", "glow", "luxury", "dramatic"]
+  },
+  {
+    "name": "Cherry Wine",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium-low",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["wine", "luxury", "rich", "sensual"]
+  },
+  {
+    "name": "Carmine Flame",
+    "primary_base": "Red",
+    "secondary_bases": ["Orange"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "warm",
+    "associations": ["fiery", "dramatic", "intense", "power"]
+  },
+  {
+    "name": "Mahogany Rouge",
+    "primary_base": "Red",
+    "secondary_bases": ["Brown"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["wood", "luxury", "deep", "elegant"]
+  },
+  {
+    "name": "Claret Silk",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["fabric", "wine", "smooth", "premium"]
+  },
+  {
+    "name": "Amaranth Rose",
+    "primary_base": "Pink",
+    "secondary_bases": ["Red"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["botanical", "romantic", "rich", "expressive"]
+  },
+  {
+    "name": "Carnation Velvet",
+    "primary_base": "Pink",
+    "secondary_bases": ["Red"],
+    "brightness": "medium-high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["floral", "soft-texture", "luxury", "romantic"]
+  },
+  {
+    "name": "Fuchsia Burst",
+    "primary_base": "Pink",
+    "secondary_bases": ["Purple"],
+    "brightness": "high",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["electric", "modern", "bold", "fashion"]
+  },
+  {
+    "name": "Magenta Dream",
+    "primary_base": "Pink",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium-high",
+    "saturation": "very-high",
+    "temperature": "cool",
+    "associations": ["fantasy", "vibrant", "dreamlike", "stylized"]
+  },
+  {
+    "name": "Bubblegum Satin",
+    "primary_base": "Pink",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["playful", "smooth", "premium", "modern"]
+  },
+  {
+    "name": "Lilac Haze",
+    "primary_base": "Purple",
+    "secondary_bases": ["Pink"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["dreamy", "soft", "muted", "ethereal"]
+  },
+  {
+    "name": "Mauve Whisper",
+    "primary_base": "Purple",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "neutral",
+    "associations": ["dusty", "soft", "elegant", "minimal"]
+  },
+  {
+    "name": "Orchid Mist",
+    "primary_base": "Purple",
+    "secondary_bases": ["Pink"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["floral", "light", "refined", "graceful"]
+  },
+  {
+    "name": "Plum Royale",
+    "primary_base": "Purple",
+    "secondary_bases": ["Red"],
+    "brightness": "low",
+    "saturation": "high",
+    "temperature": "cool",
+    "associations": ["royal", "luxury", "deep", "dramatic"]
+  },
+  {
+    "name": "Violet Smoke",
+    "primary_base": "Violet",
+    "secondary_bases": ["Grey"],
+    "brightness": "low",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["cinematic", "muted", "moody", "stylish"]
+  },
+  {
+    "name": "Amber Honey",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium-high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["golden", "soft", "organic", "luxury"]
+  },
+  {
+    "name": "Topaz Dawn",
+    "primary_base": "Yellow",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["gemstone", "light", "fresh", "refined"]
+  },
+  {
+    "name": "Citrine Beam",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Orange"],
+    "brightness": "very-high",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["sunny", "bright", "energetic", "optimistic"]
+  },
+  {
+    "name": "Golden Fennel",
+    "primary_base": "Yellow",
+    "secondary_bases": ["Green"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["earthy", "subtle", "elegant", "natural"]
+  },
+  {
+    "name": "Graphite Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["Grey"],
+    "brightness": "low",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["cinematic", "dark", "muted", "modern"]
+  },
+  {
+    "name": "Twilight Teal",
+    "primary_base": "Blue",
+    "secondary_bases": ["Green"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["moody", "evening", "cinematic", "depth"]
+  },
+  {
+    "name": "Stormcloud Grey",
+    "primary_base": "Grey",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["stormy", "cinematic", "soft", "atmospheric"]
+  },
+  {
+    "name": "Dusty Indigo",
+    "primary_base": "Blue",
+    "secondary_bases": ["Purple"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["fashion", "muted", "luxury", "calm"]
+  },
+  {
+    "name": "Cosmic Lavender",
+    "primary_base": "Purple",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium-high",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["sci-fi", "glow", "dreamy", "cosmic"]
+  },
+  {
+    "name": "Eclipse Black",
+    "primary_base": "Black",
+    "secondary_bases": ["Blue"],
+    "brightness": "ultra-low",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["cosmic", "dark", "subtle", "infinite"]
+  },
+  {
+    "name": "Onyx Shadow",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "very-low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["jewel", "shadowed", "elegant", "depth"]
+  },
+  {
+    "name": "Soot Veil",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["matte", "modern", "urban", "soft"]
+  },
+  {
+    "name": "Obsidian Mist",
+    "primary_base": "Black",
+    "secondary_bases": ["Purple"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["volcanic", "textured", "mystery", "cinematic"]
+  },
+  {
+    "name": "Iron Obscura",
+    "primary_base": "Black",
+    "secondary_bases": ["Grey"],
+    "brightness": "very-low",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["industrial", "metallic", "dark", "power"]
+  },
+  {
+    "name": "Pearl Blush",
+    "primary_base": "White",
+    "secondary_bases": ["Pink"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "warm",
+    "associations": ["opulent", "soft-glow", "luxury", "elegant"]
+  },
+  {
+    "name": "Moonstone Glow",
+    "primary_base": "White",
+    "secondary_bases": ["Blue"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["ethereal", "shimmer", "mystic", "soft"]
+  },
+  {
+    "name": "Alabaster Mist",
+    "primary_base": "White",
+    "secondary_bases": ["Grey"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["luxury", "soft", "refined", "minimal"]
+  },
+  {
+    "name": "Ivory Lace",
+    "primary_base": "White",
+    "secondary_bases": ["Yellow"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "warm",
+    "associations": ["elegant", "smooth", "classic", "fabric"]
+  },
+  {
+    "name": "Frosted Linen",
+    "primary_base": "White",
+    "secondary_bases": ["Grey"],
+    "brightness": "high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["modern", "textile", "clean", "minimal"]
+  },
+  {
+    "name": "Shadow Plum",
+    "primary_base": "Purple",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["cinematic", "dark", "moody", "luxury"]
+  },
+  {
+    "name": "Royal Aubergine",
+    "primary_base": "Purple",
+    "secondary_bases": ["Brown"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["regal", "deep", "elegant", "heritage"]
+  },
+  {
+    "name": "Violet Ink",
+    "primary_base": "Violet",
+    "secondary_bases": ["Blue"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["ink", "deep", "intellectual", "stylish"]
+  },
+  {
+    "name": "Sangria Shadow",
+    "primary_base": "Red",
+    "secondary_bases": ["Purple"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["interior", "luxury", "dark", "rich"]
+  },
+  {
+    "name": "Blackcurrant Haze",
+    "primary_base": "Purple",
+    "secondary_bases": ["Black"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["moody", "sophisticated", "depth", "fashion"]
+  },
+  {
+    "name": "Seafoam Whisper",
+    "primary_base": "Green",
+    "secondary_bases": ["Blue"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["delicate", "coastal", "fresh", "calm"]
+  },
+  {
+    "name": "Lagoon Mist",
+    "primary_base": "Blue",
+    "secondary_bases": ["Green"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["serene", "turquoise", "soft", "natural"]
+  },
+  {
+    "name": "Azure Dawn",
+    "primary_base": "Blue",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["sky", "calm", "morning", "clean"]
+  },
+  {
+    "name": "Cerulean Veil",
+    "primary_base": "Blue",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["fashion", "cinematic", "soft", "muted"]
+  },
+  {
+    "name": "Arctic Blue",
+    "primary_base": "Blue",
+    "secondary_bases": ["White"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["icy", "crisp", "minimal", "modern"]
+  },
+  {
+    "name": "Mist Grey",
+    "primary_base": "Grey",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["soft", "neutral", "modern", "clean"]
+  },
+  {
+    "name": "Cocoa Truffle",
+    "primary_base": "Brown",
+    "secondary_bases": ["Red"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["chocolate", "rich", "luxury", "smooth"]
+  },
+  {
+    "name": "Espresso Noir",
+    "primary_base": "Brown",
+    "secondary_bases": ["Black"],
+    "brightness": "very-low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["coffee", "dark", "modern", "luxury"]
+  },
+  {
+    "name": "Chestnut Luxe",
+    "primary_base": "Brown",
+    "secondary_bases": ["Red"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["wood", "premium", "natural", "polished"]
+  },
+  {
+    "name": "Mocha Silk",
+    "primary_base": "Brown",
+    "secondary_bases": ["Yellow", "Red"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["creamy", "soft", "elegant", "comfort"]
+  },
+  {
+    "name": "Walnut Shadow",
+    "primary_base": "Brown",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["woodsy", "deep", "classic", "luxury"]
+  },
+  {
+    "name": "Cinder Red",
+    "primary_base": "Red",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["smoky", "cinematic", "dramatic", "intense"]
+  },
+  {
+    "name": "Bloodstone",
+    "primary_base": "Red",
+    "secondary_bases": ["Brown"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["gemstone", "dark", "mystic", "weighty"]
+  },
+  {
+    "name": "Garnet Noir",
+    "primary_base": "Red",
+    "secondary_bases": ["Black"],
+    "brightness": "very-low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["jewel", "shadowed", "luxury", "moody"]
+  },
+  {
+    "name": "Crimson Smoke",
+    "primary_base": "Red",
+    "secondary_bases": ["Grey"],
+    "brightness": "medium-low",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["muted", "luxury", "cinematic", "softened"]
+  },
+  {
+    "name": "Rouge Ember",
+    "primary_base": "Red",
+    "secondary_bases": ["Orange"],
+    "brightness": "medium",
+    "saturation": "high",
+    "temperature": "warm",
+    "associations": ["fiery", "dramatic", "glow", "intense"]
+  },
+  {
+    "name": "Peach Blossom",
+    "primary_base": "Pink",
+    "secondary_bases": ["Orange"],
+    "brightness": "high",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["delicate", "floral", "elegant", "soft"]
+  },
+  {
+    "name": "Apricot Glow",
+    "primary_base": "Orange",
+    "secondary_bases": ["Pink"],
+    "brightness": "high",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["luminous", "soft", "warmth", "refined"]
+  },
+  {
+    "name": "Coral Sand",
+    "primary_base": "Orange",
+    "secondary_bases": ["Pink"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["natural", "coastal", "muted", "organic"]
+  },
+  {
+    "name": "Sunset Peach",
+    "primary_base": "Orange",
+    "secondary_bases": ["Pink"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["gradient", "sunset", "soft", "romantic"]
+  },
+  {
+    "name": "Tawny Nectar",
+    "primary_base": "Orange",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "medium",
+    "temperature": "warm",
+    "associations": ["honeyed", "rich", "refined", "natural"]
+  },
+  {
+    "name": "Pewter Glow",
+    "primary_base": "Grey",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["metallic", "subtle", "modern", "polished"]
+  },
+  {
+    "name": "Silver Sage",
+    "primary_base": "Grey",
+    "secondary_bases": ["Green"],
+    "brightness": "medium",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["botanical", "elegant", "metallic", "calm"]
+  },
+  {
+    "name": "Stormy Slate",
+    "primary_base": "Grey",
+    "secondary_bases": ["Blue"],
+    "brightness": "low",
+    "saturation": "very-low",
+    "temperature": "cool",
+    "associations": ["cinematic", "dark", "moody", "architectural"]
+  },
+  {
+    "name": "Ashen Veil",
+    "primary_base": "Grey",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "very-low",
+    "temperature": "neutral",
+    "associations": ["soft", "contemporary", "minimal", "calm"]
+  },
+  {
+    "name": "Forest Shadow",
+    "primary_base": "Green",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["mysterious", "cinematic", "deep", "natural"]
+  },
+  {
+    "name": "Evergreen Mist",
+    "primary_base": "Green",
+    "secondary_bases": ["Blue"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "cool",
+    "associations": ["cool", "sophisticated", "modern", "natural"]
+  },
+  {
+    "name": "Moss Whisper",
+    "primary_base": "Green",
+    "secondary_bases": ["White"],
+    "brightness": "medium-high",
+    "saturation": "low",
+    "temperature": "neutral",
+    "associations": ["pale", "natural", "calm", "organic"]
+  },
+  {
+    "name": "Olive Veil",
+    "primary_base": "Green",
+    "secondary_bases": ["Brown"],
+    "brightness": "medium",
+    "saturation": "low",
+    "temperature": "warm",
+    "associations": ["earthy", "muted", "modern", "aesthetic"]
+  },
+  {
+    "name": "Cypress Shadow",
+    "primary_base": "Green",
+    "secondary_bases": ["Black"],
+    "brightness": "low",
+    "saturation": "medium",
+    "temperature": "cool",
+    "associations": ["regal", "deep", "forest", "cinematic"]
+  }
+]
