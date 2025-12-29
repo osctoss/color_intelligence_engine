@@ -1,0 +1,143 @@
+[
+  {
+    "theme": "Sci-Fi",
+    "enhancement_weights": {
+      "Electric": 0.95,
+      "Neon": 0.9,
+      "Ionized": 0.9,
+      "Photon": 0.85,
+      "Quantum": 0.85,
+      "Cyber": 0.8,
+      "Plasma": 0.8,
+      "Metallic": 0.7,
+      "Chrome": 0.75,
+      "Glass": 0.65,
+      "Carbon": 0.7,
+      "Void": 0.6,
+      "Nebula": 0.6,
+      "Aurora": 0.65
+    }
+  },
+  {
+    "theme": "Dark",
+    "enhancement_weights": {
+      "Void": 0.95,
+      "Phantom": 0.9,
+      "Ghost": 0.85,
+      "Spectral": 0.8,
+      "Ember": 0.75,
+      "Scorched": 0.8,
+      "Matte": 0.7,
+      "Worn": 0.65,
+      "Ruined": 0.7,
+      "Weathered": 0.65
+    }
+  },
+  {
+    "theme": "Royal",
+    "enhancement_weights": {
+      "Halo": 0.9,
+      "Celestial": 0.85,
+      "Radiant": 0.9,
+      "Velvet": 0.85,
+      "Silk": 0.85,
+      "Satin": 0.8,
+      "Polished": 0.75,
+      "Timeless": 0.8,
+      "Crystal": 0.75,
+      "Metallic": 0.7
+    }
+  },
+  {
+    "theme": "Fantasy",
+    "enhancement_weights": {
+      "Ethereal": 0.9,
+      "Arcane": 0.9,
+      "Spectral": 0.85,
+      "Celestial": 0.85,
+      "Nebula": 0.8,
+      "Astral": 0.8,
+      "Crystal": 0.75,
+      "Aurora": 0.75,
+      "Floral": 0.65
+    }
+  },
+  {
+    "theme": "Mythic",
+    "enhancement_weights": {
+      "Solar": 0.9,
+      "Radiant": 0.9,
+      "Celestial": 0.85,
+      "Ancient": 0.85,
+      "Timeless": 0.8,
+      "Arcane": 0.8,
+      "Ember": 0.75,
+      "Crystal": 0.75,
+      "Mineral": 0.7
+    }
+  },
+  {
+    "theme": "Natural",
+    "enhancement_weights": {
+      "Mossy": 0.9,
+      "Earthen": 0.9,
+      "Organic": 0.85,
+      "Botanical": 0.85,
+      "Forest": 0.8,
+      "Mineral": 0.75,
+      "Floral": 0.75,
+      "Weathered": 0.65
+    }
+  },
+  {
+    "theme": "Cinematic",
+    "enhancement_weights": {
+      "Ember": 0.85,
+      "Void": 0.8,
+      "Ghost": 0.75,
+      "Worn": 0.75,
+      "Weathered": 0.75,
+      "Polished": 0.7,
+      "Aurora": 0.7,
+      "Spectral": 0.7
+    }
+  },
+  {
+    "theme": "Minimal",
+    "enhancement_weights": {
+      "Matte": 0.95,
+      "Void": 0.8,
+      "Icy": 0.75,
+      "Glass": 0.7,
+      "Polished": 0.65,
+      "Organic": 0.6
+    }
+  },
+  {
+    "theme": "Historic",
+    "enhancement_weights": {
+      "Ancient": 0.9,
+      "Patina": 0.85,
+      "Weathered": 0.8,
+      "Worn": 0.8,
+      "Ruined": 0.75,
+      "Earthen": 0.7,
+      "Mineral": 0.7,
+      "Timeless": 0.75
+    }
+  },
+  {
+    "theme": "Luxury",
+    "enhancement_weights": {
+      "Velvet": 0.9,
+      "Silk": 0.9,
+      "Satin": 0.85,
+      "Gloss": 0.85,
+      "Polished": 0.8,
+      "Crystal": 0.8,
+      "Metallic": 0.75,
+      "Radiant": 0.75,
+      "Timeless": 0.8
+    }
+  }
+]
