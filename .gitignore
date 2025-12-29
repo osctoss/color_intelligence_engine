@@ -1,0 +1,6 @@
+venvcie
+__pycache__
+
+.vscode
+.DS_Store
+dataset
