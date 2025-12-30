@@ -4,75 +4,94 @@
     <meta charset="UTF-8">
     <title>Color Intelligence Engine</title>
 
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
 
-<div class="container">
-    <h1>Color Intelligence Engine</h1>
-    <p class="subtitle">AI-assisted cinematic color selection</p>
+<div class="app-wrapper {% if results %}expanded{% else %}initial{% endif %}">
 
-    <div id="loading" class="loading-overlay">
-        <div class="spinner"></div>
-        <p>Generating intelligence…</p>
+    <div class="panel panel-left">
+        <h1>Color Intelligence Engine</h1>
+        <p class="subtitle">AI-assisted cinematic color selection</p>
+
+        <div id="loading" class="loading-overlay">
+            <div class="spinner"></div>
+            <p>Analyzing colors…</p>
+        </div>
+
+        <form method="POST" onsubmit="handleGenerate()">
+            <label>Base Color</label>
+            <select name="base_color" required>
+                {% for c in base_colors %}
+                <option value="{{ c }}">{{ c }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Theme</label>
+            <select name="theme" required>
+                {% for t in themes %}
+                <option value="{{ t }}">{{ t }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Top Results</label>
+            <input type="number" name="top_k" value="5" min="1" max="10">
+
+            <button id="generateBtn" type="submit">Generate</button>
+        </form>
     </div>
 
-    <form method="POST" onsubmit="showLoading()">
-        <label>Base Color</label>
-        <select name="base_color" required>
-            {% for c in base_colors %}
-            <option value="{{ c }}">{{ c }}</option>
-            {% endfor %}
-        </select>
+    <div class="panel panel-right">
+        {% if results %}
+        <div class="results">
+            <h2>Recommended Colors</h2>
+            <ul>
+                {% for r in results %}
+                <li class="result-item" data-delay="{{ loop.index0 * 80 }}">
+                    <span class="color-dot"></span>
+                    <span class="color-name">{{ r.color }}</span>
+                    <span class="score-pill">{{ r.score }}</span>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
 
-        <label>Theme</label>
-        <select name="theme" required>
-            {% for t in themes %}
-            <option value="{{ t }}">{{ t }}</option>
-            {% endfor %}
-        </select>
-
-        <label>Top Results</label>
-        <input type="number" name="top_k" value="5" min="1" max="10">
-
-        <button type="submit">Generate</button>
-    </form>
-
-    {% if results %}
-    <div class="results">
-        <h2>Recommended Colors</h2>
-        <ul>
-            {% for r in results %}
-            <li>
-                <span class="color-dot"></span>
-                <span class="color-name">{{ r.color }}</span>
-                <span class="score">{{ r.score }}</span>
-            </li>
-            {% endfor %}
-        </ul>
+        {% if prompt %}
+        <div class="prompt-section fade-in">
+            <h2>Generated Prompt</h2>
+            <div class="prompt-box" id="promptText">{{ prompt }}</div>
+            <button class="copy-btn" onclick="copyPrompt()">Copy Prompt</button>
+        </div>
+        {% endif %}
     </div>
-    {% endif %}
 
-    {% if prompt %}
-    <div class="prompt-section">
-        <h2>Generated Prompt</h2>
-        <div class="prompt-box" id="promptText">{{ prompt }}</div>
-        <button class="copy-btn" onclick="copyPrompt()">Copy Prompt</button>
-    </div>
-    {% endif %}
 </div>
 
 <script>
-function showLoading() {
+document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".result-item").forEach(el => {
+        const delay = el.dataset.delay;
+        if (delay) {
+            el.style.animationDelay = delay + "ms";
+        }
+    });
+});
+
+function handleGenerate() {
     document.getElementById("loading").style.display = "flex";
+    const btn = document.getElementById("generateBtn");
+    btn.disabled = true;
+    btn.innerText = "Analyzing…";
 }
 
 function copyPrompt() {
     const text = document.getElementById("promptText").innerText;
     navigator.clipboard.writeText(text);
-    alert("Prompt copied to clipboard!");
+    alert("Prompt copied!");
 }
 </script>
 
