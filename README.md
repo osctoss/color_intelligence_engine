@@ -163,9 +163,9 @@ color_intelligence_engine/
 │   └── static/style.css
 │
 ├── scripts/
-│   ├── generate_base_realworld_scores.py
-│   ├── generate_color_embeddings.py
-│   └── generate_enhancement_embeddings.py
+│   ├── generate_csv.py
+│   ├── generate_clr_emb.py
+│   └── generate_enh_emb.py
 │
 ├── requirements.txt
 ├── README.md
@@ -204,9 +204,9 @@ python web/app.py
 
 To regenerate derived datasets:
 
-python scripts/generate_base_realworld_scores.py
-python scripts/generate_color_embeddings.py
-python scripts/generate_enhancement_embeddings.py
+python scripts/generate_csv.py
+python scripts/generate_clr_emb.py
+python scripts/generate_enh_emb.py
 
 
 ---
